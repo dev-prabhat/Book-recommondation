@@ -1,0 +1,27 @@
+@import url("https://fonts.googleapis.com/css2?family=Raleway:ital,wght@1,500&display=swap");
+html {
+  background-color: #fcd34d;
+}
+.App {
+  font-family: "Raleway", sans-serif;
+  max-width: 600px;
+  margin: auto;
+  padding: 2rem;
+}
+.btn {
+  cursor: pointer;
+  padding: 0.5rem;
+  margin: 0.5rem;
+  border-radius: 0.5rem;
+  border: 1px solid black;
+  font-family: "Raleway", sans-serif;
+  background-color: #d97706;
+}
+.list {
+  list-style: none;
+  border: 1px solid #b45309;
+  padding: 1rem;
+  margin: 1rem 0rem;
+  width: 50%;
+  border-radius: 0.5rem;
+}
